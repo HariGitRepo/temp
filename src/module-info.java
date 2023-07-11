@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author koppa
+ *
+ */
+module result {
+}
